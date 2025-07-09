@@ -80,12 +80,6 @@ While based on simulated data, this project demonstrates that:
 
 ---
 
-## Purpose
-
-This project was developed to demonstrate technical fluency in machine learning for aging research, as part of my application to relevant institutes working on aging.
-
----
-
 ## Author
 
 **Maruf Hasan**  
